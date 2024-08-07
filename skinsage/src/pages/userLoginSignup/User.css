@@ -1,0 +1,45 @@
+.User_reg_Outer{
+    /* align-self: center; */
+    margin: auto;
+    width: 50vw;
+    padding: 2rem;
+    text-align: center;
+    /* background-color: #eceff1; */
+    
+}
+.userdetails input {
+    margin: 1vh auto;
+    display: block;
+    margin-bottom: 4vh; 
+    width: 30vw;
+    height: 7vh;
+    /* border-radius: 10px; */
+    padding: 10px;
+  }
+  .term_cond input[type="checkbox"] {
+    display: inline-block;
+    vertical-align: middle; /* This aligns the checkbox vertically with the label text */
+  }
+  
+  .term_cond label {
+    display: inline-block;
+    vertical-align: middle; /* This aligns the label text vertically with the checkbox */
+  }
+  
+  .TC{
+    color: rgba(6, 21, 152, 0.80);
+    /* font-family: Inter; */
+    font-weight: 600;
+  }
+  .Reister_but{
+    border-radius: 25px;
+    background: #5880F0;
+    width: 15vw;
+    height: 6vh;
+    flex-shrink: 0;
+    color: white;
+    font-weight: 600;
+    margin-top: 6vh;
+    cursor: pointer;
+    border: none;
+  }

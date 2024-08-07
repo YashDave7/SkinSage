@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+.navbar {
+  /* width: 1920px; */
+  height: 13vh;
+  /* border: 1px solid #000; */
+  background: #def9ff;
+  display: flex;
+  align-items: center;
+  padding:0 30px;
+}
+
+.navbar-ul {
+  display: inline-flex;
+  align-items: flex-start;
+  /* gap: 64px; */
+  align-items: center;
+  position: absolute;
+  right: 100px;
+}
+
+.navbar-img {
+  width: 200px;
+  height: 30px;
+  /* display: flex; */
+  /* justify-content: center; */
+}
+
+.navbar-li {
+  display: flex;
+  padding: 30px 14px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.navbar-link {
+  color: black;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 16px;
+  font-style: normal;
+  /* font-weight: 700; */
+  line-height: 24px; /* 150% */
+  text-decoration: none;
+}
+
+.Login-btn {
+  display: flex;
+  width: 7.6875rem;
+  height: 2.625rem;
+  padding: 0.4375rem 1.52438rem 0.4375rem 1.5625rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1.5625rem;
+  border: 1px solid #17a2b8;
+  background: #0069ff;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+
+.navbar_but{
+  display: flex;
+  text-decoration: none;
+}
+.Login-btn {
+  text-decoration: none;
+}
+
+.myspan{
+  text-decoration: none;
+}
+
+.sadsa{
+  text-decoration: none;
+  color: white;
+}
+
+.nav_buttons{
+  /* margin-left: vw; */
+}

@@ -1,0 +1,227 @@
+.campsportal{
+    /* background-color: #f0f0f0; */
+}
+.headerPS{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-around;
+    /* margin: 2vh auto; */
+    margin-bottom: 4vh;
+
+}
+
+.header0{
+    width: 350px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    max-height: 20vh;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    /* justify-content: space-; */
+}
+.header0 img{
+    height: 80px;
+    margin-right: 0.7rem;
+    border-radius: 5px;
+}
+.header0 .txt .txt1{
+    /* padding: 1rem; */
+    color: #1A1A1A;
+    font-family: Inter;
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 166.667% */
+}
+
+.header0 .txt .txt2{
+    color: rgba(82, 82, 82, 0.60);
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 160% */
+    }
+
+
+
+
+.selection1{
+    display: flex;
+    margin-bottom: 2vh;
+    padding-left: 5vw;
+    /* justify-content: center; */
+
+}
+
+.select select{
+    border: none;
+    text-align: end;
+    color: rgba(38, 38, 38, 0.75);
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    /* background: #eaeced; */
+
+
+}
+
+.selection1 .select span{
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+
+}
+.wwdt{
+    width: 20vw;
+}
+.selection1 .s1,.s2{
+    margin: auto 3vw;
+    padding: 10px;
+    /* background: #eaeced; */
+    border-radius: 10px;
+}
+
+
+
+
+.selection2{
+    display: flex;
+    margin-bottom: 2vh;
+    padding-left: 5vw;
+    /* justify-content: center; */
+
+}
+
+.select2 select{
+    border: none;
+    text-align: end;
+    color: rgba(38, 38, 38, 0.75);
+    font-family: Segoe UI;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    /* background: #eaeced; */
+
+
+}
+
+.selection2 .select2 span{
+    font-family: Segoe UI;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+
+}
+
+.selection2 .s21{
+    margin-left: 3vw;
+}
+.selection2 .s21,.s22,.s23,.s24{
+    /* margin: auto 3vw; */
+    margin-right: 2vw;
+    padding: 7px;
+    background: #eaeced;
+    border-radius: 10px;
+}
+.s24 input{
+    /* background: #eaeced; */
+    border: none;
+    
+}
+
+
+/* ////// */
+.camp_sec{
+    display: flex;
+    width: 86vw;
+    margin: auto;
+}
+.camp_sec1{
+    width: 63vw;
+}
+.camp_sec2{
+    width: 23vw;
+    padding: 25px;
+
+}
+.camp_sec2 .s2{
+    border: 1px solid #1A1A1A; 
+    width: 100%;
+}
+.camp_text{
+    width: 100%;
+}
+
+.camp1{
+    display: flex;
+    height:100%;
+    /* background-color: ##eceff1; */
+    /* border: #1A1A1A; */
+    border: 1px solid #1A1A1A; 
+    border-radius: 5px;
+    padding: 10px;
+    margin: 4vh auto;
+      
+}
+
+.test_up {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.test_down{
+    display: flex;
+    justify-content: space-between;
+  width: 100%;
+
+}
+
+.camp-pay{
+    background-color: rgb(64, 222, 169);
+    border-radius: 10px;
+    border: none;
+    color: black;
+    width: 10vw;
+    cursor: pointer;
+}
+
+.camp_sec2 button{
+    /* background-color: #eaeced; */
+
+    border: none;
+    margin: 1vh;
+    border-radius: 10px;
+    height: 6vh;
+    cursor: pointer;
+    width: 10vw;
+}
+
+.input_location{
+    margin-bottom: 4vh;
+}
+.input_org{
+    margin-bottom: 4vh;
+}
+.user_location{
+    margin-bottom: 4vh;
+}
+.camp_sec2 input{
+    width: 15vw;
+    height: 6vh;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.select2 input{
+    margin-bottom: 2vh;
+}
