@@ -20,6 +20,12 @@ SkinSage aims to develop a multifaceted system leveraging both web development a
 https://www.youtube.com/watch?v=QWWow0O0Ek0&t=197s
 
 
+## User Flow Diagram
+
+![App Screenshot](./Flow.jpg)
+
+
+
 ## Tech Stack
 
 **Frontend**: React.js.
