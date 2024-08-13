@@ -17,7 +17,7 @@ SkinSage aims to develop a multifaceted system leveraging both web development a
 
 ## Demo Video
 
-https://www.youtube.com/watch?v=QWWow0O0Ek0&t=197s
+https://www.youtube.com/watch?v=QWWow0O0Ek0
 
 
 ## User Flow Diagram
